@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gdrivecompression",
+  "private_key_id": "67fa38e7f206fac8594ef9eb09d9cbad25ede5df",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDHsewvwGS3VYGZ\nWn7lmjUXuUrOC3N5h977L5QVEnW7zATEn1bO0p3qAU5uAwICX/cWRxwKRP4YGK/g\nn1dfqvturvnyplljqklNmWR92GynRn2kxaYwnynr/LbasaciFRgz6YtDa/QT2vZ9\nUqgmV/ioL4SxBfA/9wh9q4VWSYoqfa6WAxxymp9oBLFzTS3ndM7aUswJxb08dBGn\nMKvfYABPTS97C43KRT80JSkWvNoIaysnM+muW/3df8XU90j5ffrxw4AD59g5XyyH\nc72qlOtVJHve4caDrirPeLbJOHJK6+1KOtqI7q3lAdKQspipsdLvBiTdTRc2yqx8\nqWyRJy+XAgMBAAECggEAEakmnkKBpcUmJQ3f0yaEM4jrmLVijQj7K3PVwNdVGjq8\n4TbGUpxF4wAik5AoiVU7YPkA/deEMVVdmJv++jMA8ZT//fnARhQ1T2uVe5u8YD7X\ntc7VF8+7wWckNMspYNZEwbKR4nCVsXvX+NVqkZmOIDGzpoRD7yRF1/dnX245jfBP\nVfXOiYfYEQ02+KtFZpPMMKHSHfOUnqGDNk9sgCC9L7Qqea1NDXN34Xqa0j37hyz+\n0ME+Pu5w3f/nz/q/ZtP1o2cp81wOd/lLfGZPPUb5M2N+xcR+v0q1n0x/NuzvdihI\n+vOnW6zqRirZnfh+7jBJkQmKXPMVHdvQfmuSXgwhAQKBgQD85w1UPeA2w+hXeImU\nnS64l4NRr+ibDXj3uFh7Tbl/0EpDx+ssUWnAcDKelHiv0GqPpFk7NiCJvUDMVPlZ\ndUwE2SNrjgC1qUt7UuKLCqjKJYawToLHhhaUhSeD29cCWZQ0sx4c4R9hbCFiQPoZ\npzT7nT2YzoWJzy/ttzKdtDWl9wKBgQDKJAtQc1eT4vMvfqPh/3zpA3j2kAcReoDD\nBHV7Uli1IBP2N/6xNP3jQDdA+al/UwKjvMzx84UiqPULhperQDQ8yzT0uXruFuOp\nLiCsMcHLkliez0yZaabq1AdqQGkbALl1qio+IHc6qy3UzWs//s/jc5FGVp8t9Zvg\nxUjWkK/bYQKBgEsTT/qlD61SROPKjZUHgDoeCEa0oKl+u11WZTXdYebWb2VlsKOM\nW4dcBzraOmV+ylNv52lTbR9WhijiRM9Qqct6pjAkjINhCV5Hwaai+G5h63TlKZ+P\nZ56ZVJypI0+4Re3LCnJqRgWGsvZW8aex4mGbURDOpge98K1xx93XBGILAoGACOnx\n/cg4UnMtmiiRfYPQtE3M5cKQLTsjtnXZ4GhPNR2HA9KQTqwxjfXk+d6IlO7KLQJE\nX18HvfGJbMqwoYKhSxUC7s/HFfy4aVt5YV6IVzvK4KXvkMxR6gUTlqHkgKZVh1TL\nrBWubE3kJYAxfI72B+euvlVPi61LBGxuu9eBicECgYBVXzWnThu6k3v7aUYFIQRS\n3EIT6IfsXRHykhMQOb2MbxOgIdckssfs7dOxswvoI2DFEJ7IlfOvt9YLZhfm0ZGK\ngJeBojVvbQk/yKZHBw/8WYkn/BwnDQ9qaHwUK8jIwI6y+BDTYSMgeOvN2DkkBlxt\nlkEYJ2UqbYUFY1ULg7C4KQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-4eygs@gdrivecompression.iam.gserviceaccount.com",
+  "client_id": "109957950783190613889",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-4eygs%40gdrivecompression.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
