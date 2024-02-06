@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <!-- Include Firebase JavaScript SDK -->
+    <script src="https://www.gstatic.com/firebasejs/9.6.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.0/firebase-auth.js"></script>
+    <!-- Include Google Sign-In JavaScript client library -->
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <!-- Your Firebase configuration -->
+    <script src="firebase-config.js"></script>
+    <!-- CSS styles -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="login-container">
+        <h1>Login Page</h1>
+        <!-- Google Sign-In button -->
+        <div class="g-signin2" data-onsuccess="onSignIn"></div>
+    </div>
+    <!-- JavaScript code -->
+    <script src="app.js"></script>
+</body>
+</html>
