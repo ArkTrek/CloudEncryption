@@ -50,13 +50,13 @@ def upload():
         files = request.files['file']
         outp = "test.zip"
         password = request.form['password']
-        abc = pyminizip.compress(files, None, outp, password, 5)
+        # abc = pyminizip.compress(files, None, outp, password, 5)
         if file and password:
             filename = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
             file.save(filename)
             result = pyminizip.compress(filename, None, outp, passwords, 5)
-        return abc 
-        return redirect(url_for('result'))
+        # return abc 
+        # return redirect(url_for('result'))
     # file = request.files['file']
     # password = request.form['password']
     # if file and password:
@@ -69,7 +69,7 @@ def upload():
 
         # Redirect to a page showing the result
         result = 'File and password received successfully.'
-        return send_file(tmp_file.name, as_attachment=True, attachment_filename=abc)
+        return send_file(tmp_file.name, as_attachment=True, attachment_filename=filename)
         return redirect(url_for('upload_processing', result=result))
 
 @app.route('/upload_processing')
