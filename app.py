@@ -51,6 +51,10 @@ def upload():
         outp = "test.zip"
         password = request.form['password']
         abc = pyminizip.compress(files, None, outp, password, 5)
+        if file and password:
+            filename = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
+            file.save(filename)
+            result = pyminizip.compress(filename, None, outp, passwords, 5)
         return abc 
         return redirect(url_for('result'))
     # file = request.files['file']
